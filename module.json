@@ -1,0 +1,10 @@
+[
+	{
+		"gitPath": "git@git.firstshare.cn:fe-paas/",
+		"path": "pass",
+		"modules": [
+			"flow",
+			"function"
+		]
+	}
+]
